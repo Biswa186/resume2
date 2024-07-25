@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+#c{
+    background-color: rgb(128, 128, 128);
+}
+#a{
+    background-color: rgb(128, 128, 128);
+}
+table th,tr,td{
+    margin: auto;
+    border: 1px solid black;
+
+}
+#O{
+    background-color: rgb(128, 128, 128);
+}
+#W{
+    background-color: rgb(128, 128, 128);
+}
+#p{
+    background-color: rgb(128, 128, 128);
+}
+#d{
+    background-color: rgb(128, 128, 128);
+}
+h3{
+    text-align: right;
+}
